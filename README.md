@@ -1,4 +1,4 @@
-::: {align="center"}
+ {align="center"}
 # Olá! Eu sou Hugo Almeida 
 
 ### Estudante de Engenharia de Software \| Desenvolvedor em formação
