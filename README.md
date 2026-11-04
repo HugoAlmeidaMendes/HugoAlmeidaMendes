@@ -47,6 +47,5 @@ funcionalidades.
   Mendes
 - GitHub:
   @HugoAlmeidaMendes
-::: {align="center"}
-*Construindo conhecimento, um projeto de cada vez.* 🚀
-:::
+   {align="center"}
+*Construindo conhecimento, um projeto de cada vez.
