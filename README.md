@@ -64,7 +64,7 @@ Um projeto voltado a apresentar informações e identidade de uma comunidade ou 
 Tecnologias: substituir pelas tecnologias reais do projeto.
 O que pratiquei: transformar uma ideia em uma experiência web útil para outras pessoas.
  Outro projeto
-Use este espaço para um projeto diferente — por exemplo, um exercício de lógica, uma aplicação pequena ou uma experiência interativa.
+Use este espaço para um projeto diferente por exemplo, um exercício de lógica, uma aplicação pequena ou uma experiência interativa.
 
 Tecnologias: substituir pelas tecnologias reais.
 O que pratiquei: explicar brevemente o desafio, a solução e o principal aprendizado.
